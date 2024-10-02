@@ -1,0 +1,1 @@
+使用Python Flask, Plotly.js，製作日圓匯率即時視覺化

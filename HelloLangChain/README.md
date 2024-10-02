@@ -1,0 +1,1 @@
+Google Gemini API 實作

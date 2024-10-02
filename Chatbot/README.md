@@ -1,0 +1,1 @@
+製作LLM 聊天機器人，使用技術有：Python Flask, Google Gemini API
